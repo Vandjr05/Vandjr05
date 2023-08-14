@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vanderlei Junior
+- 👋 Oi, sou Vanderlei Junior
 - 👀 Sou interresado em front-end
 - 🌱 Atualmente estou prestando ADS
 
